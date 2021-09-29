@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array
+        name="log_array">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Incoming/Cancel</item>
+    </array>
+</resources>
